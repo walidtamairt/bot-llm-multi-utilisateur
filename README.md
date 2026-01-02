@@ -1,4 +1,4 @@
-# 💬 Multi-User LLM Chat (Next.js 14 + TypeScript)
+#  Multi-User LLM Chat (Next.js 14 + TypeScript)
 
 ### Installation
 
