@@ -22,7 +22,7 @@ npm run dev
 
 ### LLM utilisé
 Google Gemini 2.5 Flash \
-Ce modèle a été choisi car il est optimisé pour des réponses rapides, ce qui est essentiel pour une application de chat en temps réel. Il est également disponible en version gratuite, ce qui le rend adapté au prototypage et aux assignments techniques.
+Ce modèle a été choisi car il est optimisé pour des réponses rapides, ce qui est essentiel pour une application de chat en temps réel. Il est également disponible en version gratuite.
 
 ### Vidéo de démonstration
 Lien vers la vidéo de démonstration :
