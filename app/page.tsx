@@ -11,9 +11,9 @@ import {
 
 export default function ChatPage() {
   const initialUsers: User[] = [
-    { id: "user-1", name: "Alice", role: "user" },
-    { id: "user-2", name: "Bob", role: "user" },
-    { id: "user-3", name: "Carol", role: "user" },
+    { id: "user-1", name: "Walid", role: "user" },
+    { id: "user-2", name: "Rayane", role: "user" },
+    { id: "user-3", name: "Achour", role: "user" },
     { id: "ai", name: "Assistant", role: "ai" },
   ];
 
