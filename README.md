@@ -13,7 +13,7 @@ Une clé API Google valide
 
 Installation
 1. Cloner le dépôt
-git clone https://github.com/Zakariae-212/Multi-User-Chat.git
+git clone https://github.com/walidtamairt/bot-llm-multi-utilisateur.git
 cd Multi-User-Chat
 
 2. Installer les dépendances
